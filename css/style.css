@@ -1,0 +1,41 @@
+
+* {
+    font-family: "Karma", sans-serif;
+}
+html, body {
+    font-size: 15px;
+    line-height: 1.5;
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
+
+}
+div{
+    display: block;
+}
+.padding-16{
+    display: table;
+
+}
+img{
+    width: 100%;
+}
+.item{
+    max-width: 23.3%;
+    float: left;
+    padding: 5px;
+    margin: 5px;
+}
+.w3-image{
+    width: 800px;
+}
+.padding-32{
+    padding: 15px;
+    display: table;
+}
+.third{
+    width: 33.33%;
+    float: left;
+    text-align: left;
+
+}
